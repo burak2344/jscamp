@@ -1,7 +1,7 @@
 console.log("Merhaba Kodlama.io")
 
 //Js not type safe
-let dolarDun = 9.20
+let dolarDun = 9.10
 let dolarBugun = 9.30
 
 {

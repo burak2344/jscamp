@@ -39,4 +39,4 @@ console.log(category["name"])
 
 let { id, name } = category
 console.log(id)
-console.log(name)
+    //console.log(name)

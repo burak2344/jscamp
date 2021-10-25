@@ -25,11 +25,11 @@ class CorporateCustomer extends Customer {
 //--------------------------------------
 // instance prototyping
 customer.name = "Murat Deniz Yılmaz"
-    //console.log(customer)
+console.log(customer)
 
 //class prototyping
 Customer.bisey = "Bişey"
-    //console.log(Customer.bisey)
+console.log(Customer.bisey)
 
 //-------------------------------------------
 

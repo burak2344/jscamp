@@ -24,3 +24,21 @@ console.log("</ul>")
 console.log(konutKredileri)
 
 console.log(euroDun)
+
+
+let sayi = 10;
+sayi = "Burak Yünkül"
+let student = { id: 1, name: "Burak" }
+    //console.log(student)
+
+function save(puan = 10, ogrenci) {
+    console.log(ogrenci.name + "" + puan)
+}
+//save(undefined, student);
+
+
+let students = ["Burak Yünkül", "Engin Demiroğ", "Büşra Yılmaz"]
+    //console.log(students)
+
+let students2 = [student, { id: 2, name: "Burak" }, "Ankara", { city: "İstanbul" }]
+    //console.log(students2)
